@@ -1,0 +1,6 @@
+conda list > requirements.txt
+
+conda env export > <env_name>.yml
+
+At end:
+tree  (in conda)
