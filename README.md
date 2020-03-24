@@ -7,14 +7,13 @@
 Project Organization
 ------------
 
-├───code
-│   ├───exploration
-│   └───scripts
-│       └───functions
-├───data
-│   ├───processed
-│   ├───raw
-│   └───results
-├───documents
-├───notebooks
-└───reports
+├───code    
+│   ├───exploration    
+│   └───scripts    
+│       └───functions    
+├───data    
+│   ├───processed    
+│   ├───raw       
+├───documents    
+├───notebooks    
+└───reports     
